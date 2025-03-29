@@ -5,6 +5,8 @@ conda create --name lvm python=3.10 -y
 conda activate lvm
 pip install torch torchvision torchaudio
 ```
+### Install Grouding DINO
+refer to: https://github.com/IDEA-Research/GroundingDINO/tree/main?tab=readme-ov-file#hammer_and_wrench-install
 ## Data preparation
 ### SynDrone
 refer to: https://github.com/LTTM/Syndrone
